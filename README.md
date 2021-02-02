@@ -1,2 +1,1 @@
-# c
-Lei Xuan's personal website
+# Lei Xuan's personal website
